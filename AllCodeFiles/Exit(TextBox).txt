@@ -1,0 +1,10 @@
+This Is Too Close A Form Or Xaml With A Click Action - (NO/CANCEL TEXTBOX)
+
+{
+     if (MessageBox.Show("Close Program ?","Exit",MessageBoxButtons.OKCancel)== DialogResult.OK)
+     {
+         Application.Exit();
+     }
+ }
+
+(PASTE)

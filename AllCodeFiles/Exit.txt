@@ -1,0 +1,3 @@
+This Is Too Close A Form Or Xaml With A Click Action - 
+
+Application.Exit(); (Paste)

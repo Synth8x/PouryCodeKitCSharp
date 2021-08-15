@@ -1,0 +1,3 @@
+Minimize Button C# - this.WindowState = FormWindowState.Minimized; 
+
+(PASTE)

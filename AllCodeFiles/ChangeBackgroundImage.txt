@@ -1,0 +1,3 @@
+this.BackgroundImage = Properties.Resources.PictureFileNameHere; (YOU HAVE TO ADD PICTURE TO RESOURCES FIRST)
+
+(PASTE) CHANGE BACKGROUND IMAGE WITH CLICK ACTION!

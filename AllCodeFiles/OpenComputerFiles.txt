@@ -1,0 +1,10 @@
+Open Computor Files C# - OpenFileDialog opendialogfile = new OpenFileDialog(); 
+            opendialogfile.Filter = "Lua File (*.lua)|*.lua|Text File (*.txt)|*.txt";
+            opendialogfile.FilterIndex = 2;
+            opendialogfile.RestoreDirectory = true;
+            if (opendialogfile.ShowDialog() != DialogResult.OK)
+                return;
+            try                         
+
+
+(PASTE)
